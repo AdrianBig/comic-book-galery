@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.comic_gallery.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Beein\RiderProjects\comic-book-galery\src\comic_gallery\.idea\.idea.comic_gallery\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
